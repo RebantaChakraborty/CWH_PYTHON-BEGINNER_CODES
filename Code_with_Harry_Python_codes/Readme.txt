@@ -1,0 +1,2 @@
+This Project is a part of my beginner python codes. There are 11 programs here at the moment.The most useful is a Password Generator
+and there are two games here "SNAKE  WATER GUN" and "GUESS THE NUMBER".
