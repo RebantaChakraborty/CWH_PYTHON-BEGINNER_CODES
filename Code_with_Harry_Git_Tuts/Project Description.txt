@@ -1,0 +1,2 @@
+This is a demo project description for the sake of learning git tutorials from Code with Harry channel.
+The features of this repository are 3 text files and 1 xmls file.
